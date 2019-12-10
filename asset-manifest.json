@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dad_App_Demo/static/css/main.caad7731.chunk.css",
+    "main.js": "/Dad_App_Demo/static/js/main.1259af5a.chunk.js",
+    "main.js.map": "/Dad_App_Demo/static/js/main.1259af5a.chunk.js.map",
+    "runtime-main.js": "/Dad_App_Demo/static/js/runtime-main.438b4248.js",
+    "runtime-main.js.map": "/Dad_App_Demo/static/js/runtime-main.438b4248.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Dad_App_Demo/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.dc085cb7.chunk.js": "/Dad_App_Demo/static/js/2.dc085cb7.chunk.js",
+    "static/js/2.dc085cb7.chunk.js.map": "/Dad_App_Demo/static/js/2.dc085cb7.chunk.js.map",
+    "index.html": "/Dad_App_Demo/index.html",
+    "precache-manifest.8196c7c5a08f42bf20e99c0708a60289.js": "/Dad_App_Demo/precache-manifest.8196c7c5a08f42bf20e99c0708a60289.js",
+    "service-worker.js": "/Dad_App_Demo/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Dad_App_Demo/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.caad7731.chunk.css.map": "/Dad_App_Demo/static/css/main.caad7731.chunk.css.map",
+    "static/js/2.dc085cb7.chunk.js.LICENSE": "/Dad_App_Demo/static/js/2.dc085cb7.chunk.js.LICENSE",
+    "static/media/hazel.jpg": "/Dad_App_Demo/static/media/hazel.4eb85e80.jpg",
+    "static/media/tubby.jpg": "/Dad_App_Demo/static/media/tubby.2f47cb65.jpg",
+    "static/media/whiskey.jpg": "/Dad_App_Demo/static/media/whiskey.5c1e3b17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438b4248.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.dc085cb7.chunk.js",
+    "static/css/main.caad7731.chunk.css",
+    "static/js/main.1259af5a.chunk.js"
+  ]
+}
