@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { HashRouter } from 'react-router-dom';
 import Routes from './Routes';
 import Navbar from './Navbar';
 import whiskey from './imgs/whiskey.jpg';
@@ -43,12 +44,14 @@ class App extends Component {
   };
   render() {
     return (
-      <div>
-        <Navbar dogs={this.props.dogs} />
-        <div className="container">
-          <Routes dogs={this.props.dogs} />
+      <HashRouter basename="/">
+        <div>
+          <Navbar dogs={this.props.dogs} />
+          <div className="container">
+            <Routes dogs={this.props.dogs} />
+          </div>
         </div>
-      </div>
+      </HashRouter>
     );
   }
 }
